@@ -1,6 +1,6 @@
-git clone 
-git add
-git commit 
-git push
+git push --all 
+git push --force
+git push --tasks
+git clone https ou ssh
 
 
